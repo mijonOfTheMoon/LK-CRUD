@@ -1,4 +1,4 @@
-# HASIL PERCOBAAN MATERI CRUD
+# Hasil Percobaan Materi CRUD
 
 ## Panduan menjalankan kode secara lokal
 1. Aktifkan Apache web server dan MySQL server pada XAMPP
